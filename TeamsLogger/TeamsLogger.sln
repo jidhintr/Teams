@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamsLogger", "TeamsLogger\TeamsLogger.csproj", "{2BE74449-C0D3-4659-85FB-C75BA38E3C2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFetcher", "DataFetcher\DataFetcher.csproj", "{F8851D35-203D-4BEA-BA45-F9E20D335D08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2BE74449-C0D3-4659-85FB-C75BA38E3C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BE74449-C0D3-4659-85FB-C75BA38E3C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BE74449-C0D3-4659-85FB-C75BA38E3C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8851D35-203D-4BEA-BA45-F9E20D335D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8851D35-203D-4BEA-BA45-F9E20D335D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8851D35-203D-4BEA-BA45-F9E20D335D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8851D35-203D-4BEA-BA45-F9E20D335D08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
